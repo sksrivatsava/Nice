@@ -8,6 +8,6 @@ in this project i use
 4.dlib
 5.playsound
 python modules
-if your face drowsiness condition alert sound will come
+if your face has drowsiness condition alert sound will play.
 you need shape_predictor_68_face_landmarks.dat file
 for this project
