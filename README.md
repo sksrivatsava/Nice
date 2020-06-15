@@ -1,4 +1,4 @@
-# Nice
+# drowsiness-detection
 this is the drowsiness detection using python
 it detect the drowsiness in your face 
 in this project i use
